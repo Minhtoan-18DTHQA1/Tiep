@@ -1,2 +1,2 @@
 # Tiep
-web html: https://github.com/Minhtoan-18DTHQA1/huy
+web html: https://minhtoan-18dthqa1.github.io/Tiep/
